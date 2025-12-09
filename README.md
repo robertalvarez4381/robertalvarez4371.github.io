@@ -5,6 +5,7 @@ Management Information Systems, BBA
 
 ### Work Experience
 Research Assistant @ Texas A&M International University
+
 -bla
 -bla
 -bla
