@@ -11,6 +11,3 @@ Research Assistant @ Texas A&M International University
 
 ### Projects
 HR Retention Analysis
--bla
--bla
--bla
